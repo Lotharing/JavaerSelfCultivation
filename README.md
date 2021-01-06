@@ -26,3 +26,10 @@ Java开发者自我修养
 - [看完还不懂synchronized，你来揍我吧。](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484041&idx=1&sn=a61bd42cfe7158f648e24ecb1123668f&chksm=c06636b9f711bfaf3df576323869917cae17e8c1fbcd00409610f7705c35ca3d70a3eaccc53f&scene=178&cur_album_id=1649604114806308865#rd)
 
 - [从JMM角度详解Volatile关键字](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484072&idx=1&sn=8d8689b4891901d646d4323c84749f7f&chksm=c0663698f711bf8e542239a2959612d483a7fd561924ef152e7fb92337e5dc56113919772f25&scene=178&cur_album_id=1649604114806308865#rd)
+
+
+###  :battery:MySQL系列  ###
+
+
+- [MySQL一条查询SQL是怎么执行等](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484103&idx=1&sn=a9fbf08795ea8a8497ea69dd6b29c5d8&chksm=c06636f7f711bfe175d89f9e9b482998a08d004e5b058a67a14dee029b787597e46337f68dce&token=478264585&lang=zh_CN#rd)
+
