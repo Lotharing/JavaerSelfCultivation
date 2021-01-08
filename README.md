@@ -27,9 +27,11 @@ Java开发者自我修养
 
 - [从JMM角度详解Volatile关键字](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484072&idx=1&sn=8d8689b4891901d646d4323c84749f7f&chksm=c0663698f711bf8e542239a2959612d483a7fd561924ef152e7fb92337e5dc56113919772f25&scene=178&cur_album_id=1649604114806308865#rd)
 
+- [学不会AQS？那是我没鼓励你！「独占锁原理」](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484137&idx=1&sn=be271c329ec02f7077dade7e01330286&chksm=c06636d9f711bfcf8a5900f82bb009f0b9ab990fdb7b0205b7de51c907d4399e4688ad82a1bc&token=169853455&lang=zh_CN#rd)
+
 
 ###  :battery:MySQL系列  ###
 
 
-- [MySQL一条查询SQL是怎么执行等](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484103&idx=1&sn=a9fbf08795ea8a8497ea69dd6b29c5d8&chksm=c06636f7f711bfe175d89f9e9b482998a08d004e5b058a67a14dee029b787597e46337f68dce&token=478264585&lang=zh_CN#rd)
+- [MySQL一条查询SQL是怎么执行的](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484103&idx=1&sn=a9fbf08795ea8a8497ea69dd6b29c5d8&chksm=c06636f7f711bfe175d89f9e9b482998a08d004e5b058a67a14dee029b787597e46337f68dce&token=478264585&lang=zh_CN#rd)
 
