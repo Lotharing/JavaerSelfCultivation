@@ -1,5 +1,13 @@
 # JavaerSelfCultivation
+
 Java开发者自我修养
+
+
+
+###  :orange_book:Java基础 ###
+
+- [面试必问ArrayList,何不尽兴发挥！](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&tempkey=MTA5NV9BQ2dGMlpBTEk4UjBITE9YcmRfQTU3LU9FY1Q4aUNDNzRUcXRfUFkwWWNJUW10UWVLVnZGV0VkUk8xTXo4bzNZb1kxckxUNm9iSk9GSFo0b2N1Q0lDRkxwMHdmNXV2Y0NsZmN2VmIybzlvSmVjVXBoOHRZZktwWHlqOTRndmp5YjJjanhtQUprZ1BqSUpHa08yb1I4SHhKZzN5ZldaMlYtNHQwNGVnfn4%3D&chksm=406636cf7711bfd9301d75aa4b0bf8e966521645fc4b9cda89e9cdefd68ca3a1d34ce8c484e0#rd)
+
 
 ###  :coffee:JVM系列  ###
 
