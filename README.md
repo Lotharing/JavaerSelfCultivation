@@ -43,3 +43,5 @@ Java开发者自我修养
 
 - [MySQL一条查询SQL是怎么执行的](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484103&idx=1&sn=a9fbf08795ea8a8497ea69dd6b29c5d8&chksm=c06636f7f711bfe175d89f9e9b482998a08d004e5b058a67a14dee029b787597e46337f68dce&token=478264585&lang=zh_CN#rd)
 
+- [MySQL提交更新时候RedoLog和BinLog的作用](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&tempkey=MTA5Nl9KQUIxaG9rWjF1OFE3c25DQlFSLXhBT3NRcGVrUnNXZk9SU3c2VGxLUlQyYXIzQjlSb1g3RElud3F6NmJBTUhWQUp3U1k3dEk3ZXZ5WDVBek45Z1lieW5wN2p4Y3ItZzV1OWhtbG5veHpnVm9rcmk1NVNrc1E1dHk5bWhvQURaV0xHS1JoWTl2UVM5R3h6WXlZUzZwMW5ZVGR5S1J1V3c4alZMQjBRfn4%3D&chksm=4066373e7711be28132b70c5f491b9c8d6d4131a70b9b4a9c21fd49494d4bfd9f555da5797a4#rd)
+
