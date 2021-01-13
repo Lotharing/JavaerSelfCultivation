@@ -6,7 +6,7 @@ Java开发者自我修养
 
 ###  :orange_book:Java基础 ###
 
-- [面试必问ArrayList,何不尽兴发挥！](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&tempkey=MTA5Nl85cjBvZDQyS09mbVBDTWlzQlFSLXhBT3NRcGVrUnNXZk9SU3c2VGxLUlQyYXIzQjlSb1g3RElud3F6NlBJdTNPQk9CV2dubXFzVTJvNGhoNFU4SElUQUg0bTJnaUdOTGVIRjNORGVvQVZSQlpuOVVXMmducXZqZ3hZSlRLbW5pcTMycnYzOTVPcF9SVHpUcW81blNyaXQ1T3dlSmZSRzBqbG1DcDFnfn4%3D&chksm=406636cf7711bfd9301d75aa4b0bf8e966521645fc4b9cda89e9cdefd68ca3a1d34ce8c484e0#rd)
+- [面试必问ArrayList,何不尽兴发挥！](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484166&idx=1&sn=c5150d5cb1537e660affc500608537cc&chksm=c0663736f711be20b0cefe19ad157ff8d4a7ebca9b1af0d0b65c12298a598a3bd7e24a7b8727&token=1271010358&lang=zh_CN#rd)
 
 
 ###  :coffee:JVM系列  ###
@@ -43,5 +43,5 @@ Java开发者自我修养
 
 - [MySQL一条查询SQL是怎么执行的](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484103&idx=1&sn=a9fbf08795ea8a8497ea69dd6b29c5d8&chksm=c06636f7f711bfe175d89f9e9b482998a08d004e5b058a67a14dee029b787597e46337f68dce&token=478264585&lang=zh_CN#rd)
 
-- [MySQL提交更新时候RedoLog和BinLog的作用](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&tempkey=MTA5Nl9KQUIxaG9rWjF1OFE3c25DQlFSLXhBT3NRcGVrUnNXZk9SU3c2VGxLUlQyYXIzQjlSb1g3RElud3F6NmJBTUhWQUp3U1k3dEk3ZXZ5WDVBek45Z1lieW5wN2p4Y3ItZzV1OWhtbG5veHpnVm9rcmk1NVNrc1E1dHk5bWhvQURaV0xHS1JoWTl2UVM5R3h6WXlZUzZwMW5ZVGR5S1J1V3c4alZMQjBRfn4%3D&chksm=4066373e7711be28132b70c5f491b9c8d6d4131a70b9b4a9c21fd49494d4bfd9f555da5797a4#rd)
+- [MySQL提交更新时候RedoLog和BinLog的作用](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484178&idx=1&sn=eeb52d0d8341b095dd4f351757f25088&chksm=c0663722f711be34e298c6cbbc80aa624a4023a66407eb054df7f73ac37273e9f93b800636e3&token=1271010358&lang=zh_CN#rd)
 
