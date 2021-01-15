@@ -8,6 +8,8 @@ Java开发者自我修养
 
 - [面试必问ArrayList,何不尽兴发挥！](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484166&idx=1&sn=c5150d5cb1537e660affc500608537cc&chksm=c0663736f711be20b0cefe19ad157ff8d4a7ebca9b1af0d0b65c12298a598a3bd7e24a7b8727&token=1271010358&lang=zh_CN#rd)
 
+- [不想拿着HashMap跟面试官探讨一下吗？](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&tempkey=MTA5Nl8wYm82QWVXajJ3QVZnbjQ1QlFSLXhBT3NRcGVrUnNXZk9SU3c2VGxLUlQyYXIzQjlSb1g3RElud3F6Nko1WmV3RW1kSlhVU29FVEJqQUhjOGpiaXhhSTdvZHhvWGNBTGlEVDBodUZwQ1FRMlhPNEZFcV9jZGtWOGFiR2dYZ0ZoemxEMXBPSi0yMERGdDE5dGtudjV2VnVzNTNPUmFIbE5ERVpaTlJ3fn4%3D&chksm=4066376d7711be7b119ca96b2cec17ebc0a117694f74e06f709ba2450ad538606fca0eb528ae#rd)
+
 
 ###  :coffee:JVM系列  ###
 
