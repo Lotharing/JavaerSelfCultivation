@@ -47,3 +47,12 @@ Java开发者自我修养
 
 - [MySQL提交更新时候RedoLog和BinLog的作用](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484178&idx=1&sn=eeb52d0d8341b095dd4f351757f25088&chksm=c0663722f711be34e298c6cbbc80aa624a4023a66407eb054df7f73ac37273e9f93b800636e3&token=1271010358&lang=zh_CN#rd)
 
+###  :dart:Redis系列  ###
+
+- [Redis持久化RDB和AOF机制详解](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484286&idx=1&sn=ee66a1e46dabfe83202630e9e48c2d5e&chksm=c066374ef711be58c657633225de968aa1ac6ee31987a093e65ea0a4c41b0b30a86b10d3a448&token=1109030718&lang=zh_CN#rd)
+
+
+###  :trolleybus:RabbitMQ消息队列系列  ###
+
+- [RabbitMQ消息防丢失机制](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484379&idx=1&sn=de893a2a059780ce44f8ad848f3d98c8&chksm=c06637ebf711befd5d97427cd39d1fb8b3d8bd73b560b63249a7b77dafcd0f4212f9b7059b9a&token=1109030718&lang=zh_CN#rd)
+
