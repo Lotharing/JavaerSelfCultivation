@@ -48,6 +48,8 @@ Java开发者自我修养
 
 - [MySQL提交更新时候RedoLog和BinLog的作用](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484178&idx=1&sn=eeb52d0d8341b095dd4f351757f25088&chksm=c0663722f711be34e298c6cbbc80aa624a4023a66407eb054df7f73ac37273e9f93b800636e3&token=1271010358&lang=zh_CN#rd)
 
+- [事务ACID的四个特性，你了解过他的原理吗？](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484422&idx=1&sn=391955458aff8d6b9e6b143dc6fed954&chksm=c0663036f711b920ecbe9b563c98bd7111b89c64d5ede99a39feb3940492afc09786d6ad862a&token=1685889156&lang=zh_CN#rfdf)
+
 ###  :dart:Redis系列  ###
 
 - [Redis持久化RDB和AOF机制详解](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484286&idx=1&sn=ee66a1e46dabfe83202630e9e48c2d5e&chksm=c066374ef711be58c657633225de968aa1ac6ee31987a093e65ea0a4c41b0b30a86b10d3a448&token=1109030718&lang=zh_CN#rd)
