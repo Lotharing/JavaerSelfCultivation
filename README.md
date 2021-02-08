@@ -8,8 +8,9 @@ Java开发者自我修养
 
 - [面试必问ArrayList,何不尽兴发挥！](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484166&idx=1&sn=c5150d5cb1537e660affc500608537cc&chksm=c0663736f711be20b0cefe19ad157ff8d4a7ebca9b1af0d0b65c12298a598a3bd7e24a7b8727&token=1271010358&lang=zh_CN#rd)
  
-- [不想拿着HashMap和面试官探讨一下吗？](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484257&idx=1&sn=91d5fecb11ea442776fbc9ea35280c5a&chksm=c0663751f711be4781f03b567a0f203ef18810d9f1d54c9391f1cbbe9c69ad34afb6ae855b36&token=1271010358&lang=zh_CN#rd)
+- [不想拿着HashMap和面试官探讨一下吗？](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484257&idx=1&sn=91d5fecb11ea442776fbc9ea35280c5a&chksm=c0663751f711be4781f03b567a0f203ef18810d9f1d54c9391f1cbbe9c69ad34afb6ae855b36&token=1271010358&lang=zh_CN#rd
 
+- [源码处处可见的位运算你了解过吗？](https://mp.weixin.qq.com/s?__biz=Mzg5ODExNDkxMQ==&mid=2247484412&idx=1&sn=90189ebeea00648aa8755684d3238333&chksm=c06637ccf711beda01de5b23bab9aa60647e86bbda953742334dad49755ad1c5cf58df993604&token=1685889156&lang=zh_CN#rd)
 
 ###  :coffee:JVM系列  ###
 
